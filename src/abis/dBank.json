@@ -170,24 +170,12 @@
   "ast": {
     "absolutePath": "/C/Local Folder/Ethereum Programming/d-bank-dapp-u/dbank/src/contracts/dBank.sol",
     "exportedSymbols": {
-      "Context": [
-        343
-      ],
-      "ERC20": [
-        1042
-      ],
-      "IERC20": [
-        1120
-      ],
-      "SafeMath": [
-        539
-      ],
-      "Token": [
-        108
-      ],
-      "dBank": [
-        320
-      ]
+      "Context": [343],
+      "ERC20": [1042],
+      "IERC20": [1120],
+      "SafeMath": [539],
+      "Token": [108],
+      "dBank": [320]
     },
     "id": 321,
     "license": "MIT",
@@ -195,15 +183,7 @@
     "nodes": [
       {
         "id": 110,
-        "literals": [
-          "solidity",
-          ">=",
-          "0.6",
-          ".0",
-          "<",
-          "0.8",
-          ".0"
-        ],
+        "literals": ["solidity", ">=", "0.6", ".0", "<", "0.8", ".0"],
         "nodeType": "PragmaDirective",
         "src": "33:31:2"
       },
@@ -225,9 +205,7 @@
         "contractKind": "contract",
         "fullyImplemented": true,
         "id": 320,
-        "linearizedBaseContracts": [
-          320
-        ],
+        "linearizedBaseContracts": [320],
         "name": "dBank",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -843,10 +821,7 @@
                       "id": 156,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        4294967278,
-                        4294967278
-                      ],
+                      "overloadedDeclarations": [4294967278, 4294967278],
                       "referencedDeclaration": 4294967278,
                       "src": "805:7:2",
                       "typeDescriptions": {
@@ -967,10 +942,7 @@
                       "id": 166,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        4294967278,
-                        4294967278
-                      ],
+                      "overloadedDeclarations": [4294967278, 4294967278],
                       "referencedDeclaration": 4294967278,
                       "src": "932:7:2",
                       "typeDescriptions": {
@@ -1692,10 +1664,7 @@
                       "id": 220,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        4294967278,
-                        4294967278
-                      ],
+                      "overloadedDeclarations": [4294967278, 4294967278],
                       "referencedDeclaration": 4294967278,
                       "src": "1497:7:2",
                       "typeDescriptions": {
@@ -1723,9 +1692,7 @@
                   "src": "1497:70:2"
                 },
                 {
-                  "assignments": [
-                    231
-                  ],
+                  "assignments": [231],
                   "declarations": [
                     {
                       "constant": false,
@@ -1810,9 +1777,7 @@
                   "src": "1574:45:2"
                 },
                 {
-                  "assignments": [
-                    238
-                  ],
+                  "assignments": [238],
                   "declarations": [
                     {
                       "constant": false,
@@ -1941,9 +1906,7 @@
                   "src": "1727:61:2"
                 },
                 {
-                  "assignments": [
-                    248
-                  ],
+                  "assignments": [248],
                   "declarations": [
                     {
                       "constant": false,
@@ -2112,9 +2075,7 @@
                   "src": "1858:71:2"
                 },
                 {
-                  "assignments": [
-                    260
-                  ],
+                  "assignments": [260],
                   "declarations": [
                     {
                       "constant": false,
@@ -2842,24 +2803,12 @@
   "legacyAST": {
     "absolutePath": "/C/Local Folder/Ethereum Programming/d-bank-dapp-u/dbank/src/contracts/dBank.sol",
     "exportedSymbols": {
-      "Context": [
-        343
-      ],
-      "ERC20": [
-        1042
-      ],
-      "IERC20": [
-        1120
-      ],
-      "SafeMath": [
-        539
-      ],
-      "Token": [
-        108
-      ],
-      "dBank": [
-        320
-      ]
+      "Context": [343],
+      "ERC20": [1042],
+      "IERC20": [1120],
+      "SafeMath": [539],
+      "Token": [108],
+      "dBank": [320]
     },
     "id": 321,
     "license": "MIT",
@@ -2867,15 +2816,7 @@
     "nodes": [
       {
         "id": 110,
-        "literals": [
-          "solidity",
-          ">=",
-          "0.6",
-          ".0",
-          "<",
-          "0.8",
-          ".0"
-        ],
+        "literals": ["solidity", ">=", "0.6", ".0", "<", "0.8", ".0"],
         "nodeType": "PragmaDirective",
         "src": "33:31:2"
       },
@@ -2897,9 +2838,7 @@
         "contractKind": "contract",
         "fullyImplemented": true,
         "id": 320,
-        "linearizedBaseContracts": [
-          320
-        ],
+        "linearizedBaseContracts": [320],
         "name": "dBank",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -3515,10 +3454,7 @@
                       "id": 156,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        4294967278,
-                        4294967278
-                      ],
+                      "overloadedDeclarations": [4294967278, 4294967278],
                       "referencedDeclaration": 4294967278,
                       "src": "805:7:2",
                       "typeDescriptions": {
@@ -3639,10 +3575,7 @@
                       "id": 166,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        4294967278,
-                        4294967278
-                      ],
+                      "overloadedDeclarations": [4294967278, 4294967278],
                       "referencedDeclaration": 4294967278,
                       "src": "932:7:2",
                       "typeDescriptions": {
@@ -4364,10 +4297,7 @@
                       "id": 220,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        4294967278,
-                        4294967278
-                      ],
+                      "overloadedDeclarations": [4294967278, 4294967278],
                       "referencedDeclaration": 4294967278,
                       "src": "1497:7:2",
                       "typeDescriptions": {
@@ -4395,9 +4325,7 @@
                   "src": "1497:70:2"
                 },
                 {
-                  "assignments": [
-                    231
-                  ],
+                  "assignments": [231],
                   "declarations": [
                     {
                       "constant": false,
@@ -4482,9 +4410,7 @@
                   "src": "1574:45:2"
                 },
                 {
-                  "assignments": [
-                    238
-                  ],
+                  "assignments": [238],
                   "declarations": [
                     {
                       "constant": false,
@@ -4613,9 +4539,7 @@
                   "src": "1727:61:2"
                 },
                 {
-                  "assignments": [
-                    248
-                  ],
+                  "assignments": [248],
                   "declarations": [
                     {
                       "constant": false,
@@ -4784,9 +4708,7 @@
                   "src": "1858:71:2"
                 },
                 {
-                  "assignments": [
-                    260
-                  ],
+                  "assignments": [260],
                   "declarations": [
                     {
                       "constant": false,
